@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/EmrReactwebsite/static/css/main.8b97ae41.css",
+    "main.js": "/EmrReactwebsite/static/js/main.550ba038.js",
+    "static/media/Sunil-img.png": "/EmrReactwebsite/static/media/Sunil-img.dde4843e2afad751bb5a.png",
+    "static/media/about_sunil.jpg": "/EmrReactwebsite/static/media/about_sunil.ce11d0cc21c2b5ca9525.jpg",
+    "static/media/cv.pdf": "/EmrReactwebsite/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/bot1.jpg": "/EmrReactwebsite/static/media/bot1.86d948b3100d2ae64c69.jpg",
+    "static/media/Arina.jpg": "/EmrReactwebsite/static/media/Arina.c5a9f2fea12f7381917b.jpg",
+    "static/media/priyanshi.jpg": "/EmrReactwebsite/static/media/priyanshi.a830bfc25679fdac8025.jpg",
+    "static/media/deepan.jpg": "/EmrReactwebsite/static/media/deepan.fa94009da5b4c5ac3e2c.jpg",
+    "static/media/priyanshu.jpg": "/EmrReactwebsite/static/media/priyanshu.e1af7200676ad0bd16a4.jpg",
+    "static/media/prashant.jpg": "/EmrReactwebsite/static/media/prashant.c83ec05d5f4a6bd6e112.jpg",
+    "static/media/portfolio5.png": "/EmrReactwebsite/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/emrlogo.png": "/EmrReactwebsite/static/media/emrlogo.e121d7561cba7e519154.png",
+    "static/media/portfolio2.jpg": "/EmrReactwebsite/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/EmrReactwebsite/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/EmrReactwebsite/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/EmrReactwebsite/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/EmrReactwebsite/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/EmrReactwebsite/index.html",
+    "main.8b97ae41.css.map": "/EmrReactwebsite/static/css/main.8b97ae41.css.map",
+    "main.550ba038.js.map": "/EmrReactwebsite/static/js/main.550ba038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b97ae41.css",
+    "static/js/main.550ba038.js"
+  ]
+}
